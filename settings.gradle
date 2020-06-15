@@ -1,0 +1,10 @@
+include ':HomeView'
+include ':PagerView'
+include ':StateHistoricalData'
+include ':PopulationApi'
+include ':SelectStateView'
+include ':core'
+include ':TestedVsUntested'
+include ':CovidApi'
+include ':app'
+rootProject.name = "ARCovid"
